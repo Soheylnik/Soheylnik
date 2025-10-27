@@ -20,7 +20,7 @@
   <br>
   🤝 I’m looking for help with <b>performance optimization & scalable architectures</b>
   <br>
-  🌱 Currently learning <b>React, Docker, REST APIs, and PostgreSQL</b>
+  🌱 Currently learning <b>Machine learning, Docker, REST APIs, and PostgreSQL</b>
   <br><br>
   💬 Ask me about <b>Python, Django, REST API design, and GSAP animations</b>
   <br>
