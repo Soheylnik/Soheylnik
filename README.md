@@ -22,7 +22,7 @@
   <br>
   🌱 Currently learning <b>Machine learning, Docker, REST APIs, and PostgreSQL</b>
   <br><br>
-  💬 Ask me about <b>Python, Django, REST API design, and GSAP animations</b>
+  💬 Ask me about <b>Python, Django, REST API design, and Machine learning</b>
   <br>
   📫 Reach me at: <a href="mailto:nikoozadsoheil@gmail.com">nikoozadsoheyl@gmail.com</a>
   <br>
