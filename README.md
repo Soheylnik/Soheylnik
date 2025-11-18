@@ -78,7 +78,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!-- <p align=center>
+<p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=soheylnik&theme=react&border=61dafb&hide_border=true" />
@@ -95,7 +95,7 @@
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soheylnik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p> -->
+</p>
 
 <hr>
 
