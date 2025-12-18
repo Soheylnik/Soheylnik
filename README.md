@@ -24,7 +24,7 @@
   <br><br>
   💬 Ask me about <b>Python, Django, REST API design, and Machine learning</b>
   <br>
-  📫 Reach me at: <a href="mailto:nikoozadsoheil@gmail.com">nikoozadsoheyl@gmail.com</a>
+  📫 Reach me at: <a href="mailto:nikoozadsoheil@gmail.com">nikoozadsoheil@gmail.com</a>
   <br>
   📄 Know more about my experience: <a href="https://soheylnik.vercel.app/resume">View Resume</a>
   <br><br>
